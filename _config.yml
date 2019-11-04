@@ -1,0 +1,19 @@
+# Site settings
+name: 陈朗
+location: 广州
+company: 中大南方-产学研合作部
+position: 学生助理
+gitee: https://gitee.com/mengzhilang
+jianshu: https://www.jianshu.com/u/2f58f242208d
+phone: 13531457409
+email: 13531457409@163.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
